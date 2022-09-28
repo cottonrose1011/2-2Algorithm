@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\lg\OneDrive\바탕 화면\2-2학기\2-2algorithm\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1560192802.index
+129564782.index
+622993286.index

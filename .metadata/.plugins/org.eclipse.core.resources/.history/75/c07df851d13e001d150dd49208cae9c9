@@ -1,0 +1,22 @@
+package mergeSort;
+
+public class MergeSort {
+	
+	int[] data = {7, 5, 9, 3, 6, 2};
+	int n = 6;
+	
+	public void mergeSort(int low, int high) {
+		if(low >= high) {
+			
+		}
+		else {
+			int mid = (int)((low+high)/2);
+			mergeSort(low, mid);
+			mergeSort(mid+1, high);
+		}
+	}
+	
+	public void go() {
+		mergeSort(0, n-1);
+	}
+}
