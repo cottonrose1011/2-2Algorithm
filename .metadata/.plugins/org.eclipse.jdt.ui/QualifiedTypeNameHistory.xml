@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Staff"/>
     <fullyQualifiedTypeName name="Professor"/>
     <fullyQualifiedTypeName name="Person"/>
     <fullyQualifiedTypeName name="Rand"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="quickSort.QuickSort"/>
     <fullyQualifiedTypeName name="java.util.function.IntPredicate"/>
     <fullyQualifiedTypeName name="javax.xml.transform.Templates"/>
+    <fullyQualifiedTypeName name="MST"/>
 </qualifiedTypeNameHistroy>
