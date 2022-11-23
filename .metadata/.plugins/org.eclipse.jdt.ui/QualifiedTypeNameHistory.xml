@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Professor"/>
-    <fullyQualifiedTypeName name="Person"/>
-    <fullyQualifiedTypeName name="Rand"/>
-    <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
-    <fullyQualifiedTypeName name="java.util.Stack"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
@@ -60,4 +54,10 @@
     <fullyQualifiedTypeName name="java.util.function.IntPredicate"/>
     <fullyQualifiedTypeName name="javax.xml.transform.Templates"/>
     <fullyQualifiedTypeName name="MST"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicTreeUI.TreeCancelEditingAction"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="QueensProblem"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="graphColoring.GraphColoring"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
 </qualifiedTypeNameHistroy>
